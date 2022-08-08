@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.highzest.golandfoldlogging.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.highzest.golandfoldlogging.MyBundle
 
 class MyApplicationService {
 
